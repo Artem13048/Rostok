@@ -1,0 +1,2 @@
+# Python 3.9+ is optional for the local static server.
+# No pip packages are required.

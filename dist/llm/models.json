@@ -1,0 +1,18 @@
+{
+  "small": {
+    "model_id": "Qwen2.5-0.5B-Instruct-q4f32_1-MLC",
+    "repository": "mlc-ai/Qwen2.5-0.5B-Instruct-q4f32_1-MLC",
+    "revision": "8e6ec5f417c7d0e1414703ef619b8a24686e3ab0",
+    "wasm": "small.wasm",
+    "vram": 1061,
+    "download": "\u043e\u043a\u043e\u043b\u043e 300 \u041c\u0411"
+  },
+  "medium": {
+    "model_id": "Qwen2.5-1.5B-Instruct-q4f32_1-MLC",
+    "repository": "mlc-ai/Qwen2.5-1.5B-Instruct-q4f32_1-MLC",
+    "revision": "a822ee410075710c9673005eafa017b90136b85d",
+    "wasm": "medium.wasm",
+    "vram": 1889,
+    "download": "\u043e\u043a\u043e\u043b\u043e 1 \u0413\u0411"
+  }
+}

@@ -1,0 +1,1730 @@
+{
+  "schemaVersion": 1,
+  "asOf": "2026-10-30",
+  "farm": "Сосновый берег",
+  "demo": true,
+  "scenario": "balanced",
+  "products": [
+    {
+      "id": "cheese",
+      "name": "Сыр мягкий, 250 г",
+      "category": "Молочная продукция",
+      "unit": "шт",
+      "price": 390,
+      "cost": 230,
+      "stock": 26,
+      "expiresIn": 2,
+      "leadDays": 2,
+      "photos": 3,
+      "completeness": 94,
+      "color": "peach",
+      "symbol": "С"
+    },
+    {
+      "id": "milk",
+      "name": "Молоко фермерское, 1 л",
+      "category": "Молочная продукция",
+      "unit": "бут",
+      "price": 140,
+      "cost": 75,
+      "stock": 8,
+      "expiresIn": 5,
+      "leadDays": 3,
+      "photos": 3,
+      "completeness": 92,
+      "color": "blue",
+      "symbol": "М"
+    },
+    {
+      "id": "honey",
+      "name": "Мёд цветочный, 500 г",
+      "category": "Пасека",
+      "unit": "бан",
+      "price": 650,
+      "cost": 340,
+      "stock": 48,
+      "expiresIn": 180,
+      "leadDays": 7,
+      "photos": 1,
+      "completeness": 48,
+      "color": "honey",
+      "symbol": "М"
+    },
+    {
+      "id": "eggs",
+      "name": "Яйца деревенские, 10 шт",
+      "category": "Птицеводство",
+      "unit": "уп",
+      "price": 190,
+      "cost": 115,
+      "stock": 82,
+      "expiresIn": 14,
+      "leadDays": 2,
+      "photos": 3,
+      "completeness": 92,
+      "color": "sage",
+      "symbol": "Я"
+    },
+    {
+      "id": "curd",
+      "name": "Творог 9%, 400 г",
+      "category": "Молочная продукция",
+      "unit": "шт",
+      "price": 280,
+      "cost": 170,
+      "stock": 35,
+      "expiresIn": 5,
+      "leadDays": 2,
+      "photos": 2,
+      "completeness": 78,
+      "color": "blue",
+      "symbol": "Т"
+    },
+    {
+      "id": "jam",
+      "name": "Варенье из малины, 300 г",
+      "category": "Заготовки",
+      "unit": "бан",
+      "price": 420,
+      "cost": 210,
+      "stock": 64,
+      "expiresIn": 240,
+      "leadDays": 10,
+      "photos": 2,
+      "completeness": 82,
+      "color": "berry",
+      "symbol": "В"
+    },
+    {
+      "id": "potato",
+      "name": "Картофель мытый, 2 кг",
+      "category": "Овощи",
+      "unit": "уп",
+      "price": 160,
+      "cost": 90,
+      "stock": 90,
+      "expiresIn": 25,
+      "leadDays": 3,
+      "photos": 3,
+      "completeness": 88,
+      "color": "peach",
+      "symbol": "К"
+    },
+    {
+      "id": "tea",
+      "name": "Иван-чай, 70 г",
+      "category": "Травы и напитки",
+      "unit": "уп",
+      "price": 350,
+      "cost": 140,
+      "stock": 53,
+      "expiresIn": 300,
+      "leadDays": 7,
+      "photos": 1,
+      "completeness": 65,
+      "color": "sage",
+      "symbol": "Ч"
+    }
+  ],
+  "sales": [
+    {
+      "productId": "cheese",
+      "date": "2026-10-03",
+      "units": 2,
+      "views": 34,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-03",
+      "units": 6,
+      "views": 133,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-03",
+      "units": 1,
+      "views": 102,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-03",
+      "units": 6,
+      "views": 134,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-03",
+      "units": 3,
+      "views": 76,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-03",
+      "units": 1,
+      "views": 17,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-03",
+      "units": 3,
+      "views": 70,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-03",
+      "units": 0,
+      "views": 39,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-04",
+      "units": 2,
+      "views": 47,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-04",
+      "units": 6,
+      "views": 133,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-04",
+      "units": 0,
+      "views": 74,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-04",
+      "units": 5,
+      "views": 99,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-04",
+      "units": 3,
+      "views": 73,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-04",
+      "units": 1,
+      "views": 21,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-04",
+      "units": 5,
+      "views": 99,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-04",
+      "units": 0,
+      "views": 44,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-05",
+      "units": 2,
+      "views": 52,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-05",
+      "units": 8,
+      "views": 185,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-05",
+      "units": 1,
+      "views": 98,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-05",
+      "units": 4,
+      "views": 91,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-05",
+      "units": 2,
+      "views": 52,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-05",
+      "units": 1,
+      "views": 17,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-05",
+      "units": 5,
+      "views": 101,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-05",
+      "units": 1,
+      "views": 58,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-06",
+      "units": 2,
+      "views": 37,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-06",
+      "units": 7,
+      "views": 161,
+      "revenue": 980
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-06",
+      "units": 1,
+      "views": 115,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-06",
+      "units": 6,
+      "views": 129,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-06",
+      "units": 3,
+      "views": 65,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-06",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-06",
+      "units": 3,
+      "views": 71,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-06",
+      "units": 0,
+      "views": 47,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-07",
+      "units": 2,
+      "views": 39,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-07",
+      "units": 5,
+      "views": 120,
+      "revenue": 700
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-07",
+      "units": 0,
+      "views": 84,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-07",
+      "units": 5,
+      "views": 120,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-07",
+      "units": 4,
+      "views": 80,
+      "revenue": 1120
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-07",
+      "units": 1,
+      "views": 20,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-07",
+      "units": 4,
+      "views": 83,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-07",
+      "units": 0,
+      "views": 38,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-08",
+      "units": 3,
+      "views": 62,
+      "revenue": 1170
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-08",
+      "units": 9,
+      "views": 193,
+      "revenue": 1260
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-08",
+      "units": 1,
+      "views": 100,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-08",
+      "units": 5,
+      "views": 108,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-08",
+      "units": 3,
+      "views": 74,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-08",
+      "units": 1,
+      "views": 23,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-08",
+      "units": 6,
+      "views": 125,
+      "revenue": 960
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-08",
+      "units": 1,
+      "views": 63,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-09",
+      "units": 2,
+      "views": 45,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-09",
+      "units": 8,
+      "views": 184,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-09",
+      "units": 1,
+      "views": 113,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-09",
+      "units": 5,
+      "views": 111,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-09",
+      "units": 2,
+      "views": 54,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-09",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-09",
+      "units": 4,
+      "views": 84,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-09",
+      "units": 1,
+      "views": 56,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-10",
+      "units": 2,
+      "views": 34,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-10",
+      "units": 6,
+      "views": 132,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-10",
+      "units": 1,
+      "views": 101,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-10",
+      "units": 6,
+      "views": 133,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-10",
+      "units": 3,
+      "views": 77,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-10",
+      "units": 1,
+      "views": 17,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-10",
+      "units": 3,
+      "views": 70,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-10",
+      "units": 0,
+      "views": 39,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-11",
+      "units": 2,
+      "views": 47,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-11",
+      "units": 6,
+      "views": 134,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-11",
+      "units": 0,
+      "views": 74,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-11",
+      "units": 4,
+      "views": 98,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-11",
+      "units": 3,
+      "views": 73,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-11",
+      "units": 1,
+      "views": 21,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-11",
+      "units": 5,
+      "views": 100,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-11",
+      "units": 0,
+      "views": 44,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-12",
+      "units": 2,
+      "views": 52,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-12",
+      "units": 8,
+      "views": 185,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-12",
+      "units": 1,
+      "views": 98,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-12",
+      "units": 4,
+      "views": 92,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-12",
+      "units": 2,
+      "views": 52,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-12",
+      "units": 1,
+      "views": 16,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-12",
+      "units": 5,
+      "views": 100,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-12",
+      "units": 1,
+      "views": 58,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-13",
+      "units": 2,
+      "views": 37,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-13",
+      "units": 7,
+      "views": 160,
+      "revenue": 980
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-13",
+      "units": 1,
+      "views": 114,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-13",
+      "units": 6,
+      "views": 130,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-13",
+      "units": 3,
+      "views": 65,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-13",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-13",
+      "units": 3,
+      "views": 71,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-13",
+      "units": 0,
+      "views": 47,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-14",
+      "units": 2,
+      "views": 39,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-14",
+      "units": 5,
+      "views": 120,
+      "revenue": 700
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-14",
+      "units": 0,
+      "views": 83,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-14",
+      "units": 5,
+      "views": 119,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-14",
+      "units": 4,
+      "views": 80,
+      "revenue": 1120
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-14",
+      "units": 1,
+      "views": 20,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-14",
+      "units": 4,
+      "views": 83,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-14",
+      "units": 0,
+      "views": 38,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-15",
+      "units": 3,
+      "views": 62,
+      "revenue": 1170
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-15",
+      "units": 9,
+      "views": 194,
+      "revenue": 1260
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-15",
+      "units": 1,
+      "views": 100,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-15",
+      "units": 5,
+      "views": 108,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-15",
+      "units": 3,
+      "views": 73,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-15",
+      "units": 1,
+      "views": 23,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-15",
+      "units": 6,
+      "views": 125,
+      "revenue": 960
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-15",
+      "units": 1,
+      "views": 63,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-16",
+      "units": 2,
+      "views": 45,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-16",
+      "units": 8,
+      "views": 184,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-16",
+      "units": 1,
+      "views": 113,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-16",
+      "units": 5,
+      "views": 112,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-16",
+      "units": 2,
+      "views": 54,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-16",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-16",
+      "units": 4,
+      "views": 84,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-16",
+      "units": 1,
+      "views": 55,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-17",
+      "units": 2,
+      "views": 34,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-17",
+      "units": 6,
+      "views": 131,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-17",
+      "units": 1,
+      "views": 101,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-17",
+      "units": 6,
+      "views": 133,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-17",
+      "units": 4,
+      "views": 77,
+      "revenue": 1120
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-17",
+      "units": 1,
+      "views": 17,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-17",
+      "units": 3,
+      "views": 71,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-17",
+      "units": 0,
+      "views": 39,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-18",
+      "units": 2,
+      "views": 48,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-18",
+      "units": 6,
+      "views": 135,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-18",
+      "units": 0,
+      "views": 74,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-18",
+      "units": 4,
+      "views": 98,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-18",
+      "units": 3,
+      "views": 73,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-18",
+      "units": 1,
+      "views": 21,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-18",
+      "units": 5,
+      "views": 100,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-18",
+      "units": 0,
+      "views": 45,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-19",
+      "units": 2,
+      "views": 52,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-19",
+      "units": 8,
+      "views": 185,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-19",
+      "units": 1,
+      "views": 99,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-19",
+      "units": 4,
+      "views": 92,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-19",
+      "units": 2,
+      "views": 52,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-19",
+      "units": 1,
+      "views": 16,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-19",
+      "units": 5,
+      "views": 100,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-19",
+      "units": 1,
+      "views": 59,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-20",
+      "units": 2,
+      "views": 37,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-20",
+      "units": 7,
+      "views": 159,
+      "revenue": 980
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-20",
+      "units": 1,
+      "views": 114,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-20",
+      "units": 6,
+      "views": 130,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-20",
+      "units": 3,
+      "views": 66,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-20",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-20",
+      "units": 3,
+      "views": 70,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-20",
+      "units": 0,
+      "views": 47,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-21",
+      "units": 2,
+      "views": 39,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-21",
+      "units": 5,
+      "views": 120,
+      "revenue": 700
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-21",
+      "units": 0,
+      "views": 82,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-21",
+      "units": 5,
+      "views": 118,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-21",
+      "units": 4,
+      "views": 80,
+      "revenue": 1120
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-21",
+      "units": 1,
+      "views": 20,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-21",
+      "units": 4,
+      "views": 84,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-21",
+      "units": 0,
+      "views": 38,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-22",
+      "units": 3,
+      "views": 62,
+      "revenue": 1170
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-22",
+      "units": 9,
+      "views": 195,
+      "revenue": 1260
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-22",
+      "units": 1,
+      "views": 101,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-22",
+      "units": 5,
+      "views": 108,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-22",
+      "units": 3,
+      "views": 73,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-22",
+      "units": 1,
+      "views": 23,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-22",
+      "units": 6,
+      "views": 125,
+      "revenue": 960
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-22",
+      "units": 1,
+      "views": 63,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-23",
+      "units": 2,
+      "views": 44,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-23",
+      "units": 8,
+      "views": 183,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-23",
+      "units": 1,
+      "views": 114,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-23",
+      "units": 5,
+      "views": 113,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-23",
+      "units": 2,
+      "views": 55,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-23",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-23",
+      "units": 4,
+      "views": 83,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-23",
+      "units": 1,
+      "views": 55,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-24",
+      "units": 2,
+      "views": 35,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-24",
+      "units": 6,
+      "views": 131,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-24",
+      "units": 1,
+      "views": 100,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-24",
+      "units": 6,
+      "views": 133,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-24",
+      "units": 4,
+      "views": 77,
+      "revenue": 1120
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-24",
+      "units": 1,
+      "views": 17,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-24",
+      "units": 3,
+      "views": 71,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-24",
+      "units": 0,
+      "views": 39,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-25",
+      "units": 2,
+      "views": 48,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-25",
+      "units": 6,
+      "views": 136,
+      "revenue": 840
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-25",
+      "units": 0,
+      "views": 74,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-25",
+      "units": 4,
+      "views": 97,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-25",
+      "units": 3,
+      "views": 72,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-25",
+      "units": 1,
+      "views": 21,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-25",
+      "units": 5,
+      "views": 101,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-25",
+      "units": 0,
+      "views": 45,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-26",
+      "units": 2,
+      "views": 52,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-26",
+      "units": 8,
+      "views": 186,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-26",
+      "units": 1,
+      "views": 100,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-26",
+      "units": 4,
+      "views": 93,
+      "revenue": 760
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-26",
+      "units": 2,
+      "views": 52,
+      "revenue": 560
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-26",
+      "units": 1,
+      "views": 16,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-26",
+      "units": 5,
+      "views": 99,
+      "revenue": 800
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-26",
+      "units": 1,
+      "views": 59,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-27",
+      "units": 2,
+      "views": 37,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-27",
+      "units": 7,
+      "views": 158,
+      "revenue": 980
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-27",
+      "units": 1,
+      "views": 114,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-27",
+      "units": 6,
+      "views": 131,
+      "revenue": 1140
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-27",
+      "units": 3,
+      "views": 66,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-27",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-27",
+      "units": 3,
+      "views": 70,
+      "revenue": 480
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-27",
+      "units": 0,
+      "views": 46,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-28",
+      "units": 2,
+      "views": 40,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-28",
+      "units": 5,
+      "views": 120,
+      "revenue": 700
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-28",
+      "units": 0,
+      "views": 82,
+      "revenue": 0
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-28",
+      "units": 5,
+      "views": 118,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-28",
+      "units": 4,
+      "views": 80,
+      "revenue": 1120
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-28",
+      "units": 1,
+      "views": 20,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-28",
+      "units": 4,
+      "views": 85,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-28",
+      "units": 0,
+      "views": 38,
+      "revenue": 0
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-29",
+      "units": 3,
+      "views": 62,
+      "revenue": 1170
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-29",
+      "units": 9,
+      "views": 196,
+      "revenue": 1260
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-29",
+      "units": 1,
+      "views": 101,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-29",
+      "units": 5,
+      "views": 108,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-29",
+      "units": 3,
+      "views": 72,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-29",
+      "units": 1,
+      "views": 23,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-29",
+      "units": 6,
+      "views": 125,
+      "revenue": 960
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-29",
+      "units": 1,
+      "views": 64,
+      "revenue": 350
+    },
+    {
+      "productId": "cheese",
+      "date": "2026-10-30",
+      "units": 2,
+      "views": 44,
+      "revenue": 780
+    },
+    {
+      "productId": "milk",
+      "date": "2026-10-30",
+      "units": 8,
+      "views": 183,
+      "revenue": 1120
+    },
+    {
+      "productId": "honey",
+      "date": "2026-10-30",
+      "units": 1,
+      "views": 114,
+      "revenue": 650
+    },
+    {
+      "productId": "eggs",
+      "date": "2026-10-30",
+      "units": 5,
+      "views": 113,
+      "revenue": 950
+    },
+    {
+      "productId": "curd",
+      "date": "2026-10-30",
+      "units": 3,
+      "views": 55,
+      "revenue": 840
+    },
+    {
+      "productId": "jam",
+      "date": "2026-10-30",
+      "units": 1,
+      "views": 14,
+      "revenue": 420
+    },
+    {
+      "productId": "potato",
+      "date": "2026-10-30",
+      "units": 4,
+      "views": 83,
+      "revenue": 640
+    },
+    {
+      "productId": "tea",
+      "date": "2026-10-30",
+      "units": 1,
+      "views": 55,
+      "revenue": 350
+    }
+  ],
+  "segments": [
+    {
+      "id": "repeat",
+      "name": "Давно не заказывали",
+      "count": 64,
+      "consented": 38,
+      "avgCheck": 1250,
+      "marginRate": 0.36,
+      "lastOrderDays": 32
+    },
+    {
+      "id": "regular",
+      "name": "Постоянные покупатели",
+      "count": 92,
+      "consented": 67,
+      "avgCheck": 1680,
+      "marginRate": 0.34,
+      "lastOrderDays": 6
+    },
+    {
+      "id": "new",
+      "name": "Первая покупка",
+      "count": 47,
+      "consented": 31,
+      "avgCheck": 890,
+      "marginRate": 0.32,
+      "lastOrderDays": 12
+    }
+  ],
+  "updatedAt": "2026-10-30",
+  "source": "Учебный набор, 28 дней"
+}
